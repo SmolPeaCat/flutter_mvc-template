@@ -1,7 +1,5 @@
 # MVC template
 
-A new Flutter project.
-
 ## INITIALIZATION
 
 1. Initialize Packages: Begin by fetching all necessary packages.
