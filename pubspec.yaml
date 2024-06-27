@@ -1,5 +1,5 @@
-name: t_store
-description: A new Flutter project.
+name: mvc_template
+description: An mvc template for flutter apps
 publish_to: 'none'
 version: 1.0.0+1
 
